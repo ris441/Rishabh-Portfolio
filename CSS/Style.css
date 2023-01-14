@@ -9,6 +9,15 @@ body{
   text-shadow: 4px 4px 4px #aaa;
   text-align: center;
 }
+hr{
+    /* border-style: dotted none none; */
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #074684;
+    border-width: 8px;
+   margin: 80px auto 80px auto;
+    width: 10%;
+}
  h1 {font-family: 'Dancing Script', cursive;
     font-size: 5.625rem;
     margin: 0px;
