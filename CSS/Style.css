@@ -27,8 +27,8 @@ p{
 }
 h1 img{
     
-    width: 200px;
-    height: 100px;
+    /* width: 200px; */
+    /* height: 100px; */
 
 }
 .top-container{
@@ -47,9 +47,9 @@ h1 img{
     height: 15rem ;
 }
 .top-cloud{
-    width: 200px;
+    width: 15rem;
     position: relative;
-    right: 400px;
+    right: 18rem;
     top: 0px;
 }
 /* .mid-cloud{
@@ -59,17 +59,19 @@ h1 img{
     top: 180px;
 } */
 .bottom-cloud{
-    width: 20rem;
+    width: 15rem;
     top: 0px;
     position:relative;
     /* right: 400px; */
-    left: 400px;;
+    left: 18rem;;
 }
 
 
 /* middle container */
 .profile{
-    align-items: center;
+    /* align-items: center; */
+    width: 50%;
+    margin:  10px auto;
 }
  .img-prof{
     box-shadow: 14px 14px 14px #aaa;
